@@ -1,0 +1,7 @@
+Once done editing the coding.
+
+Go to Terminal on the Visual Studio Code, key in 3 line of coding
+
+1) git add *
+2) git commit -m "changes"
+3) git push
